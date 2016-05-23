@@ -25,7 +25,7 @@
 * [AB-3 Javaでつくる技術ドキュメントのバリデーション環境 / 伊藤敬彦(株式会社リクルートテクロノジーズ)](http://www.slideshare.net/recruitcojp/java-62249302)
 * [CD-3 ローカルでの ID 管理は大丈夫 ?! よりセキュアでモダンな Java の多要素認証 / 寺田　佳央（日本マイクロソフト株式会社）](http://www.slideshare.net/tyoshio2002/azuread-for-java-62287317)
 * [E-3 Spring Boot で Boot した後に作る Web アプリケーション基盤 / 吉田 朋也(エムスリー株式会社)](https://speakerdeck.com/sinsengumi/spring-boot-application-infrastructure)
-* F-3 Javaエンジニアに知ってほしい、Springの教科書「TERASOLUNA」 / 倉元　貴一(株式会社エヌ・ティ・ティ・データ)
+* [F-3 Javaエンジニアに知ってほしい、Springの教科書「TERASOLUNA」 / 倉元　貴一(株式会社エヌ・ティ・ティ・データ)](http://www.slideshare.net/jjug/javaspringterasoluna-jjugccc-cccf3)
 * [GH-3 Jenkins 2.0 / 川口　耕介](http://www.slideshare.net/kohsuke/jenkins-20)
 * I-3 Elasticsearchハンズオン / 樋口　慎
 * [M-3 Spring Bootでチャットツールを作りながらWebの仕組みを理解しよう！ / Java女子部](http://www.slideshare.net/javawomen/spring-bootweb-62247552)
