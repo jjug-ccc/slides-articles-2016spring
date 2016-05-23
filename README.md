@@ -73,4 +73,5 @@
 ## ブログ記事
 * [JJUG CCC 2016 Spring ( #jjug_ccc ) - セッション資料の一覧 / 地平線に行く](http://d.hatena.ne.jp/chiheisen/20160521/1463833254) (Special Thanks!)
 * [「JJUG CCC 2016 Spring」に行った](http://qiita.com/y_q1m/items/d350d59eda7003d31257)
+* [JJUG CCC 2016 Springに参加してきました。](http://d.hatena.ne.jp/gloryof/20160521/1463834823)
 * Give me pull requests!
