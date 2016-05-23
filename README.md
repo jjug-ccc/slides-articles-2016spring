@@ -75,4 +75,5 @@
 * [「JJUG CCC 2016 Spring」に行った](http://qiita.com/y_q1m/items/d350d59eda7003d31257)
 * [JJUG CCC 2016 Springに参加してきました。 / シュンツのつまづき日記](http://d.hatena.ne.jp/gloryof/20160521/1463834823)
 * [｢JJUG CCC 2016 Spring」へ行ってきた / tmk463's blog](http://tmk463.hatenablog.com/entry/2016/05/23/184302)
+* [JJUG CCC 2016 Spring参加してLTとかしました #jjug_ccc](http://yyyank.blogspot.jp/2016/05/jjug-ccc-2016-springlt-jjugccc.html)
 * Give me pull requests!
