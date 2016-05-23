@@ -61,7 +61,7 @@
 * AB-7 若者にJavaの好きなところ嫌いなところきいてみた / つっちー, bitter_fox , いわたん, あや, よこな
 * [CD-7 マイクロフレームワーク enkan(とkotowari)ではじめるREPL駆動開発 / 川島　義隆](http://www.slideshare.net/kawasima/enkankotowarirepl)
 * [GH-7 Java Puzzlers / 寺田　佳央＆櫻庭　祐一](http://www.slideshare.net/tyoshio2002/java-puzzlers-jjug-ccc-2016)
-* I-7_1 新人エンジニアが北海道からでてきてコミュニティについて想うこと / まっさん
+* [I-7_1 新人エンジニアが北海道からでてきてコミュニティについて想うこと / まっさん](http://www.slideshare.net/yamamotomasahira/ss-62271787)
 * [I-7_2 SpringBoot+Kotlin 劇的ビフォーアフター / 俺九番](https://speakerdeck.com/orekyuu/springboot-plus-kotlin-ju-de-bihuoahuta)
 * [M-7_1 古のJavaを使うということ / ぜろゆ](https://speakerdeck.com/zer0u/jjuc-ccc-2016-spring)
 * [M-7_2 JVM上でのストリーム処理エンジンの変遷 / 木村　宗太郎](http://www.slideshare.net/SotaroKimura/jvm-62243371)
