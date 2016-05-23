@@ -67,9 +67,10 @@
 * [M-7_2 JVM上でのストリーム処理エンジンの変遷 / 木村　宗太郎](http://www.slideshare.net/SotaroKimura/jvm-62243371)
 
 ### 19:30-21:30 (LT)
-* [絶対にぬるぽを出さない / やんく (@yy_yank)](http://www.slideshare.net/yyyank/ss-62257220)
+* [絶対にぬるぽを出さない / やんく (@yy_yank)](http://www.slideshare.net/yyyank/ss-62257220)
 
 
 ## ブログ記事
 * [JJUG CCC 2016 Spring ( #jjug_ccc ) - セッション資料の一覧 / 地平線に行く](http://d.hatena.ne.jp/chiheisen/20160521/1463833254) (Special Thanks!)
+* [「JJUG CCC 2016 Spring」に行った](http://qiita.com/y_q1m/items/d350d59eda7003d31257)
 * Give me pull requests!
