@@ -10,7 +10,7 @@
 ### 10:00-11:00
 * [keynote-1 基調講演1: JJUG運営の戦略と戦術 / 鈴木　雄介](http://www.slideshare.net/yusuke/jjug-jjug-ccc-2016-spring)
 * E-1 テスト自動化のまわりみち / irof
-* F-1 広告システム刷新の舞台裏ーPHPからJavaに変えてみました / 森下　大介
+* [F-1 広告システム刷新の舞台裏ーPHPからJavaに変えてみました / 森下　大介](http://www.slideshare.net/techblogyahoo/jjugccc-cccf1-phpjava)
 * GH-1 Type Annotation for Static Program Analysis / 櫻庭　祐一
 
 ### 11:00-12:00
