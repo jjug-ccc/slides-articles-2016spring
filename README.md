@@ -47,7 +47,7 @@
 * [M-5 Python + GDB = Javaデバッガ / 数村　憲治](http://www.slideshare.net/kenjikazumura/python-gdb-java)
 
 ### 17:00-17:20
-* AB-6 ビッグデータじゃなくても使えるSpark☆Streaming / 島本 多可子(株式会社ビズリーチ)
+* [AB-6 ビッグデータじゃなくても使えるSpark☆Streaming / 島本 多可子(株式会社ビズリーチ)](http://www.slideshare.net/chibochibo/spark-streaming-62325020)
 * [CD-6 SmartNews のニュース配信を支えるサーバ技術 / 瀬良 和弘(スマートニュース株式会社)](http://www.slideshare.net/smartnews/smartnews-kazhiro-sera-smartnewsinc?utm_source=dlvr.it&utm_medium=twitter)
 * [E-6 大規模映像配信サービスのJava8による全面リニューアルの裏側 / 秋穂 賢(株式会社U-NEXT)](http://www.slideshare.net/SuguruAkiho/20160521-jjug-cccunext)
 * F-6 人工知能型ERP「HUE」の開発裏話。本当に起こった速度問題とチューニング事例を一挙公開 / 東 卓弥(株式会社ワークスアプリケーションズ　HUE Div)
