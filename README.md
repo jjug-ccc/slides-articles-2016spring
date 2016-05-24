@@ -77,4 +77,5 @@
 * [｢JJUG CCC 2016 Spring」へ行ってきた / tmk463's blog](http://tmk463.hatenablog.com/entry/2016/05/23/184302)
 * [JJUG CCC 2016 Spring参加してLTとかしました #jjug_ccc / Javaプログラマーのはしくれダイアリー](http://yyyank.blogspot.jp/2016/05/jjug-ccc-2016-springlt-jjugccc.html)
 * [JJUG CCC 2016 Spring 聴講セッションのまとめ / 我らねぶた馬鹿](http://nebuta.hatenablog.jp/entry/2016/05/23/195514)
+* [じぇいじゃぐしーしーしー２０１６春に行ってきた。](http://kotomalism.hatenablog.com/entry/2016/05/24/024231)
 * Give me pull requests!
