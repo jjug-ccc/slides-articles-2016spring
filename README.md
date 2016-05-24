@@ -67,6 +67,7 @@
 * [M-7_2 JVM上でのストリーム処理エンジンの変遷 / 木村　宗太郎](http://www.slideshare.net/SotaroKimura/jvm-62243371)
 
 ### 19:30-21:30 (LT)
+* [Selenide vs Geb / @PoohSunny(高橋　陽太郎)](https://speakerdeck.com/poohsunny/selenide-vs-geb)
 * [絶対にぬるぽを出さない / やんく (@yy_yank)](http://www.slideshare.net/yyyank/ss-62257220)
 
 
