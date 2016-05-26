@@ -40,7 +40,7 @@
 ### 16:00-16:50
 * AB-5 Apache Apexとインメモリー最適化による超高速処理の世界 / 漆原　茂(ウルシステムズ株式会社 代表取締役社長 兼 エンジニア)
 * [CD-5 Java EE Web Profileを活用しよう！ / 蓮沼　賢志](http://www.slideshare.net/khasunuma/java-eewebprofile)
-* E-5 Docker on A.* ～開発から運用まで～ / 高橋裕也(株式会社オープンストリーム)
+* [E-5 Docker on A.* ～開発から運用まで～ / 高橋裕也(株式会社オープンストリーム)](http://www.slideshare.net/YuyaTakahashi4/java-on-docker)
 * [F-5 Javaプログラマーももう逃げられない。マイクロサービスとAPIの世界。 / 田中 孝清（日本IBM）](http://www.slideshare.net/takakiyo/javaapi-62250041)
 * [GH-5 Spring Framework/Bootの最新情報とPivotalが進めるクラウドネイティブなアプローチ / 槙 俊明 (Pivotalジャパン株式会社)](http://www.slideshare.net/makingx/jjugccc-cccgh5-whats-new-in-spring-framework-43-boot-14-pivotals-cloud-native-approach)
 * [I-5 JavaデスクトッププログラムをふつーのWindowsプログラムのように配布・実行する方法とPCの動きが重くならないよう気を付けること / 高橋　徹](http://www.slideshare.net/torutk/jjug-ccc-2016-spring-i-5-java)
