@@ -33,7 +33,7 @@
 ### 14:30-15:20
 * [AB-4 Introduction to JShell: The Java REPL Tool / bitter_fox (吉田真也)](http://www.slideshare.net/bitter_fox/introduction-to-jshell-the-java-repl-tool)
 * [CD-4 ネクストStruts/Seasar2としてのJava EEアクションベースMVC入門 - MVC 1.0、Jersey MVC、RESTEasy HTML - / 多田　真敏](https://speakerdeck.com/masatoshitada/java-eeakusiyonbesumvcru-men-number-jjug-ccc-number-ccc-cd4)
-* E-4 テストゼロからイチへ進むための戦略と戦術 / 渡辺　祐
+* [E-4 テストゼロからイチへ進むための戦略と戦術 / 渡辺　祐](http://www.slideshare.net/nabedge/ss-62418262)
 * [F-4 セットアップをスマートにすればJava開発はもっと速くなる！ / 桑原　雄一](http://www.slideshare.net/yuichi_kuwahara/java-62290139)
 * GH-4 春だからJavaプログラミング再入門 / きしだなおき
 
