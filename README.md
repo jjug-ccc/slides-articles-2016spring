@@ -82,4 +82,5 @@
 * [JJUG CCC 2016 Springに参加してきた。](http://d.hatena.ne.jp/megascus/20160524/1464050239)
 * [ずっとLTしかやってこなかった私がJJUG CCCでカンファレンス登壇デビューした件 #jjug_ccc #ccc_m62](http://sd-ts1017.hatenablog.com/entry/2016/05/22/234224)
 * [JJUG CCC 2016 Springに参加してきました #jjug_ccc #ccc_m61](http://www.grimrose.org/blog/2016/05/jjug-ccc-2016/)
+* [JJUG CCC 2016 Springに行ってきたよん！(*'▽'*) #jjug_ccc](http://kozake.hatenablog.com/entry/2016/05/25/083452)
 * Give me pull requests!
